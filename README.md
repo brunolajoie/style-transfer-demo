@@ -4,6 +4,6 @@ It showcases a backend (Fast API calling a DL model to give a "painting style" t
 
 Simply run
 ```bash
-. backend/getmodels.sh # to download models
+./backend/getmodels.sh # to download models
 docker-compose up --build # to launch the app on http://localhost:8501/
 ```
